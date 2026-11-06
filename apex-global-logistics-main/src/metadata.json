@@ -1,0 +1,7 @@
+{
+  "name": "Apex Global Logistics",
+  "description": "Global cargo and logistics solutions delivering the future today across air, sea, road, and project cargo worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
